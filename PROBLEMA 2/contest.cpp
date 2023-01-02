@@ -1,8 +1,20 @@
 #include<bits/stdc++.h>
- 
+#define ff first
+#define ss second
+#define ll long long
+#define ld long double
+#define pb push_back
+#define mp make_pair
+#define pii pair<int, int>
+#define pll pair<ll,ll>
+#define vi vector<int>
+#define vl vector<ll>
+#define vii vector<pii>
+#define endl '\n'
+
+
 using namespace std;
- 
-const int MAX = 1000000;
+#define MAX 1000000
  
 int n;
 int k1, k2, k3;

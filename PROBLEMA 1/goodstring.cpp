@@ -1,4 +1,17 @@
 #include<bits/stdc++.h>
+#define ff first
+#define ss second
+#define ll long long
+#define ld long double
+#define pb push_back
+#define mp make_pair
+#define pii pair<int, int>
+#define pll pair<ll,ll>
+#define vi vector<int>
+#define vl vector<ll>
+#define vii vector<pii>
+#define endl '\n'
+
 using namespace std;
 #define MAX 131073
 char res[MAX];
