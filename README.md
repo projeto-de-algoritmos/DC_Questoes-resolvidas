@@ -23,7 +23,7 @@ Resolvemos optar por realizar 4 questões sobre a matéria de Grafo 3. você pod
 
 ![Problema_3]()
 
-![Problema_4]()
+![Problema_4](./assets/problema_3.png)
 
 ## Instalação ˜`
 **Linguagen(s)**: c++, c <br>
